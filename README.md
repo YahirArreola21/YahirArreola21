@@ -30,7 +30,6 @@ focus:
   - Digital IC / VLSI
   - GPU Reliability
 
-philosophy: "Software is temporary. Silicon is eternal."
 ```
 
 Computer Engineering student focused on the layer beneath software —  
@@ -73,7 +72,7 @@ Building an **offline, real-time emergency keyword spotting system** that detect
  └─────────────┘    └───────────────┘    └───────────────────┘    └────────────────────┘    └─────────────┘
 ```
 
-### Why it’s cool
+### Why it’s interesting
 - Hardware-accelerated **keyword recognition**
 - Custom **DSP pipeline** for audio preprocessing
 - **INT8 quantization** and **structured pruning**
@@ -123,7 +122,7 @@ Designed a **microprogrammed 8-bit computer** in Verilog by building both the **
 └──────────────┘
 ```
 
-### Why it’s cool
+### Why it’s interesting
 - Basically a **small CPU**
 - Built the internal structure behind instruction execution
 - Makes your interest in **computer architecture** super visible
@@ -173,7 +172,7 @@ Created a multi-stage **interactive puzzle box** using an ESP32, combining senso
      └───────────────────┘
 ```
 
-### Why it’s cool
+### Why it’s interesting
 - Multi-stage embedded system with **game logic**
 - Uses **interrupts, ADC, PWM, sensors, OLED, and Wi-Fi**
 - Includes a **web-based RSA unlock mechanism**
@@ -203,7 +202,7 @@ Exploring **GPU reliability** by injecting faults into NVIDIA hardware and obser
  └──────────────┘     └──────────────┘     └─────────────────────┘     └────────────────────┘
 ```
 
-### Keep it cool, not too deep
+### Summary
 - Injecting faults into **NVIDIA GPUs**
 - Studying how hardware errors affect computation
 - Looking at how systems fail under corrupted execution
@@ -256,13 +255,11 @@ Exploring **GPU reliability** by injecting faults into NVIDIA hardware and obser
 - IEEE Internal Affairs Officer  
 - Robotics & Automation Society — Electrical / Software Team  
 - SHPE Member  
-- Dean’s List  
 
 ---
 
 <div align="center">
 
-## Software is temporary. Silicon is eternal.
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,35:30000a,65:850018,100:ff003c&height=120&section=footer"/>
 
